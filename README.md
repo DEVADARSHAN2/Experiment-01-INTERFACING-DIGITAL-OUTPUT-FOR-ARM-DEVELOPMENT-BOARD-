@@ -161,17 +161,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 ~~~
 
 ## Output  :
-![Screenshot 2023-08-18 113811](https://github.com/DEVADARSHAN2/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119432150/2aa093f2-73e4-44e7-bf5f-2b8465b14559)
-
-![Screenshot 2023-08-18 113846](https://github.com/DEVADARSHAN2/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119432150/303b8690-d133-4203-9e10-d673a429c406)
 
 
 ## Case 1: OFF State
-![image](https://github.com/vishnudorigundla/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94175324/8e6b1e5e-a923-4c62-b351-a22cb7cd4052)
+![Screenshot 2023-08-18 113811](https://github.com/DEVADARSHAN2/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119432150/2aa093f2-73e4-44e7-bf5f-2b8465b14559)
 
  
 ## Case 2: ON State
-![image](https://github.com/vishnudorigundla/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94175324/0f590e70-1956-44ae-b14c-454f571ebbe2)
+![Screenshot 2023-08-18 113846](https://github.com/DEVADARSHAN2/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119432150/303b8690-d133-4203-9e10-d673a429c406)
 
  
  
